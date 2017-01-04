@@ -1,0 +1,2 @@
+# fotoManager
+# foto_manager
